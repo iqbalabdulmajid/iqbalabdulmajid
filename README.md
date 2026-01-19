@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iqbal Abdul Majid</h1>
-<h3 align="center">Im studying in IST AKPRIND and I A passionate frontend developer from Indonesia</h3>
+<h3 align="center">Im Full Stack Programer From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbalabdulmajid&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalabdulmajid" /> </p>
 
